@@ -1,0 +1,3 @@
+include ':biometriclibrary'
+include ':app'
+rootProject.name = "FingerprintLoginDemo"
