@@ -1,3 +1,3 @@
 # FingerprintLoginDemo
 
-指纹验证登录
+指纹验证登录demo
